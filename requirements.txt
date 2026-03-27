@@ -1,0 +1,4 @@
+1. 
+```
+pip install langchain-openai langchain-qdrant pypdf qdrant-client langchain langchain-community
+```
